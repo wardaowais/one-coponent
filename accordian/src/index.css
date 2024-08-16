@@ -1,0 +1,61 @@
+.container {
+  display: flex;
+
+  flex-direction: column;
+  width: 80vw;
+  margin: auto;
+  height: 500px;
+}
+
+.workflow-heading {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.accordion-custom {
+  max-width: 400px;
+  height: 100%;
+
+}
+
+.header {
+  font-weight: bold;
+
+}
+
+.body {
+  font-size: 14px;
+  padding: 19px;
+}
+
+.learn-more-link {
+  color: #007bff;
+  text-decoration: underline;
+  margin-top: 10px;
+  display: inline-block;
+}
+
+.image-container {
+  display: flex !important;
+  
+  align-items: center;
+}
+
+.image {
+  max-width: 100%;
+  margin: 10px 0;
+}
+
+.image1 {
+  width: 300px; /* Adjust size as needed */
+}
+
+.image2 {
+  width: 300px; /* Adjust size as needed */
+}
+
+.container2{
+  display: flex;
+  
+}
